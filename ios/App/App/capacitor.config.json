@@ -1,0 +1,16 @@
+{
+	"appId": "com.elcamino.oppb",
+	"appName": "elcamino-oppb",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 1000
+		},
+		"PushNotifications": {
+			"presentationOptions": [
+				"sound"
+			]
+		}
+	}
+}
